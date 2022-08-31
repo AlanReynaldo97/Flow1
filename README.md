@@ -7,5 +7,5 @@ En este repositorio se hace la documentacion para realizar un flow en node red p
 3. NodeRed
 
 La plataforma virtual de codigoiot.com ofrece al publico interesado los conocimientos necesarios para llevar a cabo diversas actividades del internet de las cosas, puedes revisar los siguiemtes materiales disponibles:
-1. (https://edu.codigoiot.com/course/view.php?id=812)
-2. (https://edu.codigoiot.com/course/view.php?id=817)
+1. #L https://edu.codigoiot.com/course/view.php?id=812
+2. #L https://edu.codigoiot.com/course/view.php?id=817
